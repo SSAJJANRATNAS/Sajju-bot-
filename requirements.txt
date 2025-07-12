@@ -1,0 +1,2 @@
+binance-futures-connector>=3.5.1
+python-dotenv
